@@ -1,4 +1,4 @@
-<img src="csgo-logo.jpg" align="right" height="120px"/>
+<a href="http://store.steampowered.com/app/730/"><img src="csgo-logo.jpg" alt="CSGO" align="right" height="120px"/></a>
 # CS:GO Config
 
 

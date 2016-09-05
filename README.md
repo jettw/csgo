@@ -13,9 +13,25 @@ After the Wild West Simulator 2015 update, *video.txt* needs to be put in `...\S
 
 Enter launch options at `Steam > Library > Counter-Strike: Global Offensive (right-click) > Properties > Set Launch Options...`
 
+### Windows mouse configuration
+
+```
+7/11
+```
+
+### Mouse driver configuration
+
+```
+precision 1600 DPI
+```
+
+### In game Sensitivity
+
+```
+sensitivity 1.85
+```
+
 ### Other Settings
-+ Windows Sensitivity: 7/11
-+ Mouse DPI: 1600
 + Windows 7 Aero: No - `csgo.exe Properties > Compatibility > Disable visual themes & Disable desktop composition`
 + I play at 2560x1440 @ 144hz
 + [ClearRadar by /u/adoscafeten](http://www.csmeta.com/clearradar/)

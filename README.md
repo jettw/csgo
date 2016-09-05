@@ -4,7 +4,7 @@ Put *autoexec.cfg* in `...\Steam\steamapps\common\Counter-Strike Global Offensiv
 
 After the Wild West Simulator 2015 update, *video.txt* needs to be put in `...\Steam\userdata\<Steam3 ID>\730\local\cfg`<br />
 
-Put *video.txt* `...\Steam\userdata\yourID\730\local\cfg`
+Put *video.txt* in `...\Steam\userdata\yourID\730\local\cfg`
 
 ### Launch Options
 
@@ -16,7 +16,7 @@ Enter launch options at `Steam > Library > Counter-Strike: Global Offensive (rig
 + Windows Sensitivity: 7/11
 + Mouse DPI: 1600
 + Windows 7 Aero: No - `csgo.exe Properties > Compatibility > Disable visual themes & Disable desktop composition`
-+ I play at 2560x1440 
++ I play at 2560x1440 @ 144hz
 + [ClearRadar by /u/adoscafeten](http://www.csmeta.com/clearradar/)
 + [SLAM Source Live Audio Mixer](https://github.com/SilentSys/SLAM)
 

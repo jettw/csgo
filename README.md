@@ -28,7 +28,7 @@ precision 1600 DPI
 ### In game Sensitivity
 
 ```
-sensitivity 1.85
+sensitivity 3.5
 ```
 
 ### Other Settings

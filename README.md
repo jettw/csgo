@@ -1,6 +1,5 @@
 # CS:GO Config
 
-This is my constantly updated CS:GO autoexec config.
 
 Put *autoexec.cfg* in `...\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\cfg` or take what you want from it and add to your autoexec config!
 

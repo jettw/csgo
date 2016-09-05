@@ -20,3 +20,4 @@ Enter launch options at `Steam > Library > Counter-Strike: Global Offensive (rig
 + I play at 2560x1440 
 + [ClearRadar by /u/adoscafeten](http://www.csmeta.com/clearradar/)
 
+# ![pageres](screenshot.jpg)

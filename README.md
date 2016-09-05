@@ -1,4 +1,6 @@
+<img src="csgo-logo.jpg" align="right" height="120px"/>
 # CS:GO Config
+
 
 
 Put *autoexec.cfg* in `...\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\cfg` or take what you want from it and add to your autoexec config!

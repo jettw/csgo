@@ -1,4 +1,4 @@
-<img src="csgo-logo.jpg" align="right" height="140px"/>
+<img src="csgo-logo.jpg" align="right" height="120px"/>
 # CS:GO Config
 
 

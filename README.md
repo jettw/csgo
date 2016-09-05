@@ -19,5 +19,6 @@ Enter launch options at `Steam > Library > Counter-Strike: Global Offensive (rig
 + Windows 7 Aero: No - `csgo.exe Properties > Compatibility > Disable visual themes & Disable desktop composition`
 + I play at 2560x1440 
 + [ClearRadar by /u/adoscafeten](http://www.csmeta.com/clearradar/)
++ [SLAM Source Live Audio Mixer](https://github.com/SilentSys/SLAM)
 
 # ![pageres](screenshot.jpg)

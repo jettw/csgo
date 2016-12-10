@@ -34,7 +34,7 @@ sensitivity 3.5
 ### Other Settings
 + Windows 7 Aero: No - `csgo.exe Properties > Compatibility > Disable visual themes & Disable desktop composition`
 + I play at 2560x1440 @ 144hz
-+ [ClearRadar by /u/adoscafeten](http://www.csmeta.com/clearradar/)
++ [ClearRadar by /u/adoscafeten](http://www.csmeta.com/)
 + [SLAM Source Live Audio Mixer](https://github.com/SilentSys/SLAM)
 
 # ![pageres](screenshot.jpg)
